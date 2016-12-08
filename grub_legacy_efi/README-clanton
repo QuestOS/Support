@@ -1,0 +1,8 @@
+-- How to build Clanton GRUB --
+
+1. Add crosscompiler to your PATH
+2. $> autoreconf
+3. $> autoconf
+4. $> ./configure-clanton.sh
+5. $> make
+

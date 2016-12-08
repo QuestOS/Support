@@ -1,0 +1,4 @@
+2012-08-21  Josef Ahmad  <josef.ahmad@intel.com>
+
+	* Add Clanton-specific changelog.
+	* efi/Makefile.am: generate link map file (RTC 20693).
